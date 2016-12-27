@@ -1,5 +1,9 @@
 #EXTM3U
 #EXTINF:-1,凤凰卫视1
 http://live.3gv.ifeng.com/live/zhongwen.m3u8?fmt=x264_0k_mpegt
+#EXTINF:-1,凤凰卫视2
+rtmp://115.156.165.45:1935/iptv/fhzw
+#EXTINF:-1,凤凰卫视3
+http://kk.luoke.net.cn/hd/nxcatv.php?id=107
 #EXTINF:-1,凤凰资讯1
 http://live.3gv.ifeng.com/live/zixun.m3u8?fmt=x264_0k_mpegts
