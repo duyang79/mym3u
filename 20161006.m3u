@@ -1,7 +1,5 @@
 #EXTM3U
 #EXTINF:-1,凤凰卫视1
-http://111.39.226.103:8112/120000001001/wlds:8080/ysten-business/live/fhchinese/.m3u8
+http://live.3gv.ifeng.com/live/zhongwen.m3u8?fmt=x264_0k_mpegt
 #EXTINF:-1,凤凰资讯1
-http://202.205.93.230:280/b039f4e32adba3c507423b46e08eece6/playlist.m3u8
-#EXTINF:-1,凤凰资讯2
-http://111.39.226.103:8112/120000001001/wlds:8080/ysten-business/live/fhzixun/.m3u8
+http://live.3gv.ifeng.com/live/zixun.m3u8?fmt=x264_0k_mpegts
